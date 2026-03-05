@@ -35,6 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
+<p align="left">
+  <img src="One Piece Gear 5 GIF.gif" width="265px"/>
+</p>
+
 ---
 
 ## 📊 Estatísticas
