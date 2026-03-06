@@ -46,7 +46,7 @@
 <p align="center">
   🚧 <b>Construindo meu império de commits...</b> 🚀 <br><br>
   📈 Estatísticas em breve 👀 <br>
-  🟩 Os quadradinhos verdes estão a caminho...
+  🟩 Os quadradinhos verdes estão a caminho...⛵
 </p>
 
 ---
