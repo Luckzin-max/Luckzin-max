@@ -10,7 +10,7 @@
 
 <p align="center">
   💻 Estudante de Programação <br>
-  🚀 Focado em Python e Desenvolvimento Web <br>
+  🚀 Focado em desevolver meus estudos e Desenvolvimento Web <br>
   📍 Brasil, PE
 </p>
 
@@ -18,10 +18,10 @@
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente estudando automações com Python  
+- 🔭 Atualmente estudando Python  
 - 🌱 Aprendendo HTML, CSS e JavaScript  
-- 🎯 Objetivo: me tornar desenvolvedor full stack  
-- ⚡ Curiosidade: gosto de tecnologia, games e animes  
+- 🎯 Objetivo: me tornar desenvolvedor full stack ou back-end 
+- ⚡ Curiosidade: gosto de tecnologia, games e animes e outras formas de lazer
 
 ---
 
@@ -44,12 +44,10 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  🚧 <b>Construindo meu império de commits...</b> 🚀 <br><br>
-  📈 Estatísticas em breve 👀 <br>
-  🟩 Os quadradinhos verdes estão a caminho...⛵
+  <img src="https://github-stats-extended.vercel.app/api?username=Luckzin-max&show_icons=true&theme=dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luckzin-max&layout=compact&theme=dark" />
 </p>
 
----
 
 ## 📫 Contato
 
@@ -62,5 +60,8 @@
   </a>
   <a href="https://discord.com/users/604715064330813440">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://wa.me/558189850970">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
