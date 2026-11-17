@@ -21,7 +21,7 @@
 - 🔭 Atualmente ingressando em ADS. 
 - 🌱 Aprendendo HTML, CSS, java e JavaScript entre outros.
 - 🎯 Objetivo: me tornar desenvolvedor full stack ou back-end. 
-- ⚡ Curiosidade: gosto de tecnologia, games, animes e outras formas de lazer.
+- ⚡ Curiosidade: gosto de tecnologia, games, animes, Futebol e outras formas de lazer.
 
 ---
 
