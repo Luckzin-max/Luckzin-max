@@ -3,14 +3,14 @@
 
 <!-- TEXTO ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Estudante+de+Programação;Focado+em+Python+🐍;Desenvolvedor+em+evolução+🚀;Focado+em+FullStack+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Estudante+de+Programação;Focado+em+Java☕;Desenvolvedor+em+evolução+🚀;Focado+em+FullStack+💻" />
 </p>
 
 ---
 
 <p align="center">
   💻 Estudante de Programação <br>
-  🚀 Focado em desevolver meus estudos e Desenvolvimento Web <br>
+  🚀 Focado em desevolver meus estudos em Desenvolvimento Web <br>
   📍 Brasil, PE
 </p>
 
@@ -18,10 +18,10 @@
 
 ## 🚀 Sobre mim
 
-- 🔭 Atualmente estudando Python  
-- 🌱 Aprendendo HTML, CSS e JavaScript  
-- 🎯 Objetivo: me tornar desenvolvedor full stack ou back-end 
-- ⚡ Curiosidade: gosto de tecnologia, games e animes e outras formas de lazer
+- 🔭 Atualmente ingressando em ADS. 
+- 🌱 Aprendendo HTML, CSS, java e JavaScript entre outros.
+- 🎯 Objetivo: me tornar desenvolvedor full stack ou back-end. 
+- ⚡ Curiosidade: gosto de tecnologia, games, animes e outras formas de lazer.
 
 ---
 
@@ -34,6 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" />
 </p>
 
 <p align="left">
